@@ -108,8 +108,8 @@ static const struct {
 
   // versions 3-5 were passed in rapid succession from September 18th, 2016
   { 3, 800500, 0, 1472415034 },
-  { 4, 801220, 0, 1472415035 },
-  { 5, 802660, 0, 1472415036 },
+  { 4, 1801220, 0, 1472415035 },
+  { 5, 1802660, 0, 1472415036 },
 };
 static const uint64_t testnet_hard_fork_version_1_till = 624633;
 
